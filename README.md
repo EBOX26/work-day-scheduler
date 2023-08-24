@@ -10,3 +10,6 @@ when the page is reloaded. Upon clicking of the save button text will also appea
 user that their appointment has been added. The text entry boxes are up to date with the current time and will be color coded 
 according to whether or not the hour is past, present or in the future.
 
+
+Deployed application screenshot
+![2023-08-23 (2)](https://github.com/EBOX26/work-day-scheduler/assets/139289311/db9d1b4a-2ce1-49d8-9ea1-bc5c8fb5a6e3)
